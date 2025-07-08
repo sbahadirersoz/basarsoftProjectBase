@@ -1,0 +1,9 @@
+Bu günün Taski ise bir veri tabanı bağlamak ve bu veri tabanına olusturduğumuz modeli kaydetmek
+
+Sonrasında ise "Repository" mantığı ile Yaptığımız İşlemleri liste yerine veritabanıyla beraber yapmak
+
+
+Eklenti olarak EntityFrameWork Kurup program.cs e veritabanı bağlantı stringi bağlanmalı
+veri tabanının oluşturulması için dbContext oluşturulmalı migration basılmalı
+
+sonrasında ise repository ile veri tabanından sorgular ve ürünler eklenmeli 

@@ -1,0 +1,3 @@
+Burda Yapılması gereken şey Pointin Validation unu ayarlamak  
+
+Data Annotion ile ayarlanablir
